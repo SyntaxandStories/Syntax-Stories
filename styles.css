@@ -106,3 +106,24 @@ form textarea {
 form button {
   margin-top: 10px;
 }
+
+#newsletter {
+  background: #f0f4f9;
+  padding: 60px 20px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+#newsletter input[type="email"] {
+  padding: 10px;
+  width: 250px;
+  max-width: 90%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+#newsletter button {
+  margin-top: 10px;
+}
+
